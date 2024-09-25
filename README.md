@@ -8,9 +8,10 @@
 <h2 align="left"> Interests: </h2>
 <ul>
 <li>Food Recognition</li>
-<li>Gait Recognition</li>
 <li>Embedded vision</li>
+<li>Neuromorphic Vision</li>
 <li>Deep Learning</li>
+<li>Gait Recognition</li>
 <li>Biometrics</li>
 </ul>
 
