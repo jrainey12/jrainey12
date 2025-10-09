@@ -2,8 +2,8 @@
 
 <h3 align="center">A Computer Vision Researcher from the UK.</h3>
 <p align="center">
-<a href="jrainey12.github.io"> Personal Website </a> 
-<a href="https://www.linkedin.com/in/james-rainey-b928b1a8/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="80" height="80"/> </a>
+<a href="https://jrainey12.github.io"> Personal Website </a> 
+<!---<a href="https://www.linkedin.com/in/james-rainey-b928b1a8/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="80" height="80"/> </a>-->
 </p>
 
 <h2 align="left"> Interests: </h2>
